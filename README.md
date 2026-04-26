@@ -89,7 +89,7 @@ Feature: Login Functionality
 
 ---
 
-## 💼 Use Case (Interview Explanation)
+## 💼 Use Case
 
 This framework is designed for:
 
